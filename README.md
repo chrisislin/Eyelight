@@ -1,7 +1,11 @@
-# CS189A-Alcon-2019
+# Alcon Project
+Eyelight - Capstone Project
 
-https://drive.google.com/open?id=108onEAeLuT4HDbN3U5-vtURvZHmFW8rZ
-Link for the whole project.
+As a user, I can use Eyelight to convert surgical videos into summary reports
+
+Download Here: https://drive.google.com/open?id=108onEAeLuT4HDbN3U5-vtURvZHmFW8rZ
+
+******************************************************************************************************************************
 
 1. 2 terminals
 2. One gets into the folder and "npm start"
