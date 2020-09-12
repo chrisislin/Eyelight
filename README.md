@@ -3,6 +3,8 @@ Eyelight - Capstone Project
 
 As a user, I can use Eyelight to convert surgical videos into summary reports
 
+(https://github.com/chrisislin/Alcon-Surgeon-City/server2/demo.gif)
+
 Download Here: https://drive.google.com/open?id=108onEAeLuT4HDbN3U5-vtURvZHmFW8rZ
 
 Download demo video here: https://drive.google.com/file/d/1GaxwSmyhsaXuDyJTal_qXe1kwkcxMFHa/view?usp=sharing
