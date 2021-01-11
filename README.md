@@ -50,14 +50,14 @@ Python
 React
 Firebase
 
-### How to run it
+__How to run it__
 1. 2 terminals
 2. One terminal gets into the folder and uses command "npm start"
 3. Second terminal goes into the "back_endApi" folder and and uses command "python app.py"
 4. The react screen will show up, go to the upload page and upload a video. The video that works for the demo is "demo_test" in "public/uploads"
 5. When the preview shows up or doesn't, go to watch and play around with the video
 
-### __Contributors__
+__Contributors__
 
     Christopher Lin
       
