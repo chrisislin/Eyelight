@@ -44,7 +44,6 @@ Properly host the project onto a website
 Implement login and logout
 Use the database scalability
 
-
 ### Built With
 Python
 React
